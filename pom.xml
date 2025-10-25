@@ -114,7 +114,7 @@
 			<version>2.1.0</version>
 		</dependency>
 		<dependency>
-			<groupId>co.elasktic.clients</groupId>
+			<groupId>co.elastic.clients</groupId>
 			<artifactId>elasticsearch-java</artifactId>
 			<version>${elasticsearch-client.version}</version>
 		</dependency>
