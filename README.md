@@ -1,5 +1,8 @@
 # ECOMMERCE BACKEND API
 
+## ARCHITECTURE DIAGRAM
+![diagram](./docs/architecture.png)
+
 ## SETUP AND RUN
 
 1. Clone the repository
